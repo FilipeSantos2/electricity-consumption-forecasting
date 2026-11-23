@@ -11,5 +11,24 @@ An electricity consumption forecasting application built with Python and PyTorch
 - Store observations and predictions in PostgreSQL.
 - Visualise results through a Streamlit dashboard.
 
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- PyTorch
+- FastAPI
+- PostgreSQL
+- Streamlit
+- Docker
+
+## Project Structure
+
+- 'data'/: Raw and processed datasets.
+- 'notebooks'/: Data exploration and experimentation.
+- 'src'/: Application and machine learning code.
+- 'tests'/: Automated tests.
+
 
 
