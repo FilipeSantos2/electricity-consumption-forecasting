@@ -30,5 +30,10 @@ An electricity consumption forecasting application built with Python and PyTorch
 - 'src'/: Application and machine learning code.
 - 'tests'/: Automated tests.
 
+## Dataset
+
+Trindade, A. (2015). ElectricityLoadDiagrams20112014 [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C58C86.
+
+
 
 
